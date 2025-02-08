@@ -1,0 +1,6 @@
+&copy; 202 4. SkyPro  (index)
+<a href="html/cmd.html">Командная строка Windos</a> (index)
+отсутствие кнопки взврата на главную стр. (cmd)
+&copy; 202 4. SkyPro (cmd)
+<a href="mac.html">Вернуся на главную</a> (git)
+&copy; 202 4. SkyPro(git)
